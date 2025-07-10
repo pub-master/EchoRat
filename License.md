@@ -1,20 +1,24 @@
-# EchoRat Proprietary License
+# EchoRat License Agreement
 
-Copyright (c) 2025 
+Copyright (c) 2025 pubmaster
 
 All rights reserved.
 
-EchoRat is proprietary software, licensed only to authorized users who have purchased access from the developer. This license does **not** permit redistribution, resale, modification, reverse engineering, or public publishing of any part of this software.
+This software, EchoRat, is proprietary and confidential. You may not copy, modify, distribute, or reverse-engineer any part of this software without explicit written consent from the author.
 
-By purchasing or using EchoRat, you agree to the following:
+EchoRat is provided only to verified license holders for lawful, educational, and authorized penetration testing purposes. Any unauthorized use—including but not limited to surveillance, unauthorized access, or criminal exploitation—will result in immediate termination of your license and may result in legal action.
 
-- Use is limited to **ethical hacking**, **cybersecurity research**, and **authorized penetration testing** only.
-- You may not install or operate EchoRat on any device or network you do not have **explicit permission** to control.
-- EchoRat may not be uploaded, resold, or offered publicly under any circumstances.
-- All intellectual property remains with the original author.
-- Violations of this license may result in permanent ban from support channels and legal action.
+## You MAY:
+- Use EchoRat in legal penetration testing or malware research
+- Modify the code **only** for internal testing, not redistribution
 
-For commercial licensing, please contact:
+## You MAY NOT:
+- Rebrand or resell the software
+- Publicly share the source code or binaries
+- Use EchoRat on any system without full consent of the owner
+- Use EchoRat for stalking, harassment, spying, or illegal surveillance
 
-**Telegram:** @pubmaster1302
-**Email:** ah.saf98765@gmail.com
+## Termination
+Your license is automatically voided upon violation of any term. All copies of the software must be deleted.
+
+For questions or commercial inquiries: ah.saf98765@gmail.com     or    dm me on telegram :-   www.t.me/pubmaster1302
