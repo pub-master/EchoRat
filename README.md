@@ -56,7 +56,10 @@ EchoRat includes:
 | 🕶️ Hidden Mode  | Fully invisible on device UI |
 
 ---
+Screenshots
+<img width="1588" height="991" alt="file_000000003bf0820b8f8498948b5d696a" src="https://github.com/user-attachments/assets/8db8e76a-5c2b-4ae5-bc80-730611053f52" />
 
+---
 ## 🚀 Setup
 
 > 🛠 **This tool is sold as a private package. Setup instructions and full access are provided after purchase.**
