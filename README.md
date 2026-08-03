@@ -58,6 +58,8 @@ EchoRat includes:
 ---
 Screenshots
 <img width="1588" height="991" alt="file_000000003bf0820b8f8498948b5d696a" src="https://github.com/user-attachments/assets/8db8e76a-5c2b-4ae5-bc80-730611053f52" />
+<img width="1717" height="916" alt="file_00000000c3548211b8293dfe1adb6a62" src="https://github.com/user-attachments/assets/6e03f60d-cf74-45ea-8c8f-90890c9481a5" />
+<img width="1736" height="906" alt="file_0000000044a081fa942d80fcc2a333a7" src="https://github.com/user-attachments/assets/1800a45d-0f35-4267-be1c-d8a01d4b25d3" />
 
 ---
 ## 🚀 Setup
